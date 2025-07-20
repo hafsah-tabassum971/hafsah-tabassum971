@@ -5,7 +5,7 @@
 🌱 I’m currently learning about react frontend practices to build more fatser and accessible interfaces <br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hafsah-tabassum-13a6a5238) | [Email](mailto:hafsahtabassum01@gmail.com)
 
-[![Hafsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsah-tabassum971&show_icons=true)](https://github.com/hafsah-tabassum971/github-readme-stats)
+[![Hafsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsah-tabassum971&show_icons=true&theme=radical)](https://github.com/hafsah-tabassum971/github-readme-stats)
 
 <!--
 **hafsah-tabassum971/hafsah-tabassum971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
